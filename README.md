@@ -3,7 +3,7 @@ Here I am posting DSA problems solved by me which alse includes-
 <br><br>
 +Step-by-step explanation for hard tagged problems (using comments in code)
 <br><br>
-+Different approach tried(bruteforce+optimised)
++Different approach tried(bruteforce+optimized)
 <br><br>
 
 <b>
